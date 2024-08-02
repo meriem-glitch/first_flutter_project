@@ -1,5 +1,6 @@
 {
     "editor.fontSize": 14,
     "diffEditor.maxFileSize": 40,
-    "screencastMode.fontSize": 50
+    "screencastMode.fontSize": 50,
+    "cmake.sourceDirectory": "C:/Users/DELL/first_flutter_project/flutter_application_1/windows"
 }
